@@ -22,9 +22,9 @@ make options
 
 `make("example")` normal command to make a file called example
 
-`make("example" >> hello this is example text)` makes a file than inputs some text into it
+`make("example", "hello this is example text")` makes a file than inputs some text into it
 
-`make("example folder"f)` creates a folder
+`fmake("/select/path/to/the/dir")` creates a folder
 
 `make("example foldrr"f > example.txt >> hai)` creates a folder than in that folder it creates a file than in that txt file it adds text
 
