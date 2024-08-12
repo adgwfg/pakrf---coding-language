@@ -24,17 +24,17 @@ make options
 
 `make("example", "hello this is example text")` makes a file than inputs some text into it
 
-`fmake("/select/path/to/the/dir")` creates a folder
+`fmake("example")` creates a folder
 
 `make("example foldrr"f > example.txt >> hai)` creates a folder than in that folder it creates a file than in that txt file it adds text
 
 delete options
 
-`del("example")` deletes file called example
+`delete("example")` deletes file called example
 
-`del("~")` deletes root (DO NOT RUN THIS THIS WILL DELETE EVERYTHING)
+`delete("~")` deletes root (DO NOT RUN THIS THIS WILL DELETE EVERYTHING)
 
-`del("example" >> hello this is)` deletes the provodided contents
+`delete("example" >> hello this is)` deletes the provodided contents
 
 
 edit options
