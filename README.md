@@ -8,6 +8,9 @@ pakrf is based on python. Check wiki
 instructions
 
 
+
+# note linux mac and windows will have seperate packages
+
 defines
 -----
 `every()` defines everybody every user avaible on the os
